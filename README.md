@@ -1,2 +1,2 @@
 # MSCA-Work
-### A random sampling of project work through the program. 
+### A not-actually-random sample of project work through the program. 
